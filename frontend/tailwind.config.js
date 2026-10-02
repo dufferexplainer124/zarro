@@ -5,11 +5,11 @@ export default {
     extend: {
       colors: {
         ivory: '#FAF7F2',
-        plum: '#5B2333',
-        'plum-dark': '#3E1722',
-        rose: '#E8C4C4',
-        gold: '#B8935A',
-        ink: '#211C1B',
+        plum: '#11070a',
+        'plum-dark': '#173e31',
+        rose: '#e8c4c4',
+        gold: '#faa320',
+        ink: '#211c1b',
       },
       fontFamily: {
         display: ['Fraunces', 'serif'],
